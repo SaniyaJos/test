@@ -1,27 +1,27 @@
 {
-  "name": "nowayhome-backend",
+  "name": "new-folder",
   "version": "1.0.0",
-  "main": "server.js",
-  "type": "module",
-  "scripts": {
-    "start": "node server.js"
-  },
-  "dependencies": {
-    "cors": "^2.8.5",
-    "dotenv": "^16.6.1",
-    "express": "^4.21.2",
-    "openai": "^5.11.0"
-  },
   "description": "",
+  "main": "firebase-config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/michaelharold/NoWayHome.git"
+    "url": "git+https://github.com/SaniyaJos/test.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/michaelharold/NoWayHome/issues"
+    "url": "https://github.com/SaniyaJos/test/issues"
   },
-  "homepage": "https://github.com/michaelharold/NoWayHome#readme"
+  "homepage": "https://github.com/SaniyaJos/test#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "openai": "^5.11.0"
+  }
 }
